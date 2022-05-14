@@ -1,0 +1,9 @@
+#ifndef SETTINGS_H
+#define SETTINGS_H
+const char *mqtt_host = "";
+const char *mqtt_password = "";
+const char *mqtt_topic_root = "airgradient";
+const char *mqtt_username = "airgradient";
+const char *wifi_password = "";
+const char *wifi_ssid = "";
+#endif
